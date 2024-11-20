@@ -1,6 +1,6 @@
 # GitHub NPM Registry
 
-[![NPM Packages Publish Deployment](https://github.com/DevinDon/npm/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/DevinDon/npm/actions/workflows/pages/pages-build-deployment)
+[![Deploy static content to Pages](https://github.com/DevinDon/npm/actions/workflows/static.yml/badge.svg)](https://github.com/DevinDon/npm/actions/workflows/static.yml)
 
 发布在 GitHub Pages 上的 NPM 仓库。
 
