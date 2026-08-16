@@ -1,23 +1,23 @@
 {
   "name": "@pipers/create",
   "dist-tags": {
-    "latest": "0.61.1"
+    "latest": "0.61.2"
   },
   "versions": {
-    "0.61.1": {
+    "0.61.2": {
       "name": "@pipers/create",
-      "version": "0.61.1",
+      "version": "0.61.2",
       "description": "Create pipers workspace, application or module.",
       "dependencies": {
-        "@pipers/toolkit": "0.61.1",
+        "@pipers/toolkit": "0.61.2",
         "commander": "15.0.0",
         "inquirer": "14.0.2",
         "mustache": "4.2.0",
         "zx": "8.8.5"
       },
       "dist": {
-        "tarball": "https://npm.iinfinity.io/-/@pipers/create-0.61.1.tgz",
-        "integrity": "sha512-K3a7zxYvKDi4Kywd3XYQoXpdY1u0WkYgfsPptExN1QiGN8BwN81mCrcBphf1Arv4mZhtPwD76QkMXmaU4qT0dQ=="
+        "tarball": "https://npm.iinfinity.io/-/@pipers/create-0.61.2.tgz",
+        "integrity": "sha512-Xl21atFFLsuZzWwcjbeg4iYr5a+YHRE0q87myGM/YoLF6V8bap9nImCyxLp22E7yRvGzyvBA0r5h/jVw9xBq1A=="
       }
     }
   }

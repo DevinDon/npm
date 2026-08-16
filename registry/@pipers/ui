@@ -1,12 +1,12 @@
 {
   "name": "@pipers/ui",
   "dist-tags": {
-    "latest": "0.61.1"
+    "latest": "0.61.2"
   },
   "versions": {
-    "0.61.1": {
+    "0.61.2": {
       "name": "@pipers/ui",
-      "version": "0.61.1",
+      "version": "0.61.2",
       "description": "Pipers UI component library (shadcn/ui style, Tailwind v4 @source integration).",
       "dependencies": {
         "@base-ui/react": "1.7.0",
@@ -32,8 +32,8 @@
         "recharts": "3.8.0"
       },
       "dist": {
-        "tarball": "https://npm.iinfinity.io/-/@pipers/ui-0.61.1.tgz",
-        "integrity": "sha512-jFxHXNuZYR3KEdXfciEWB1+Su8HnyrPXpFvfsKJ5+SaqmKpYgASdaTjqtbd5GQJLzwK1OYHucyCiCxGRCRlWxQ=="
+        "tarball": "https://npm.iinfinity.io/-/@pipers/ui-0.61.2.tgz",
+        "integrity": "sha512-LiTBgCK/dCDcU15w1Ab+XaIF5Oic5XXCp0FErnDLNfqAV/1BkIhkg9+JodJ/iOqAD/kWgHaHR+2dxvhrNgtiVg=="
       }
     }
   }

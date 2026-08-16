@@ -1,19 +1,19 @@
 {
   "name": "@pipers/logger",
   "dist-tags": {
-    "latest": "0.61.1"
+    "latest": "0.61.2"
   },
   "versions": {
-    "0.61.1": {
+    "0.61.2": {
       "name": "@pipers/logger",
-      "version": "0.61.1",
+      "version": "0.61.2",
       "description": "Logger for pipers framework.",
       "dependencies": {
-        "@pipers/toolkit": "0.61.1"
+        "@pipers/toolkit": "0.61.2"
       },
       "dist": {
-        "tarball": "https://npm.iinfinity.io/-/@pipers/logger-0.61.1.tgz",
-        "integrity": "sha512-dih91xguyhj3V40ey8lI+FF841bVAT79wAwHTuOb9mkeRClzq1q0r8Aklinh9DHPuD6abrdUpadnZ8Y5WZt/+Q=="
+        "tarball": "https://npm.iinfinity.io/-/@pipers/logger-0.61.2.tgz",
+        "integrity": "sha512-9c2rXJ2cdhYo4q4PvjnbZLaotZxB7JrFd/oh+h6FKtng2beZoYU0lrAeOjAAwAdnyWc8IXpxcPcZdoMqx2ioww=="
       }
     }
   }
