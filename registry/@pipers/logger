@@ -1,0 +1,20 @@
+{
+  "name": "@pipers/logger",
+  "dist-tags": {
+    "latest": "0.61.1"
+  },
+  "versions": {
+    "0.61.1": {
+      "name": "@pipers/logger",
+      "version": "0.61.1",
+      "description": "Logger for pipers framework.",
+      "dependencies": {
+        "@pipers/toolkit": "0.61.1"
+      },
+      "dist": {
+        "tarball": "https://npm.iinfinity.io/-/@pipers/logger-0.61.1.tgz",
+        "integrity": "sha512-dih91xguyhj3V40ey8lI+FF841bVAT79wAwHTuOb9mkeRClzq1q0r8Aklinh9DHPuD6abrdUpadnZ8Y5WZt/+Q=="
+      }
+    }
+  }
+}

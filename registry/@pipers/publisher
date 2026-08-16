@@ -1,0 +1,23 @@
+{
+  "name": "@pipers/publisher",
+  "dist-tags": {
+    "latest": "0.61.1"
+  },
+  "versions": {
+    "0.61.1": {
+      "name": "@pipers/publisher",
+      "version": "0.61.1",
+      "description": "Publish npm packages to a static registry on GitHub Pages.",
+      "dependencies": {
+        "@octokit/rest": "22.0.1",
+        "@pipers/toolkit": "0.61.1",
+        "commander": "15.0.0",
+        "zx": "8.8.5"
+      },
+      "dist": {
+        "tarball": "https://npm.iinfinity.io/-/@pipers/publisher-0.61.1.tgz",
+        "integrity": "sha512-fMnAeUa3hGn9u7FFpqC6cGeI0+RxsAbsCO+bXm3+cgFPrfxBuygEGoKjwFoTFRuEmj7RTvfppAwJeUOhLuCjmw=="
+      }
+    }
+  }
+}

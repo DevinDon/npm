@@ -1,0 +1,24 @@
+{
+  "name": "@pipers/core",
+  "dist-tags": {
+    "latest": "0.61.1"
+  },
+  "versions": {
+    "0.61.1": {
+      "name": "@pipers/core",
+      "version": "0.61.1",
+      "description": "A TypeScript backend framework, with pipeline mode.",
+      "dependencies": {
+        "@pipers/logger": "0.61.1",
+        "@pipers/toolkit": "0.61.1"
+      },
+      "peerDependencies": {
+        "@sinclair/typebox": "0.34.52"
+      },
+      "dist": {
+        "tarball": "https://npm.iinfinity.io/-/@pipers/core-0.61.1.tgz",
+        "integrity": "sha512-tRGm2UxhcyxrO0B+EZHRjZaTOeqQMQni2UP28gn64rZsTTAwKDZ7iRp0jsoI3vyNkemDiQdsNnko3BgfX0QXiQ=="
+      }
+    }
+  }
+}
