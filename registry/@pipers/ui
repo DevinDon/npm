@@ -33,7 +33,7 @@
       },
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/ui-0.61.2.tgz",
-        "integrity": "sha512-LiTBgCK/dCDcU15w1Ab+XaIF5Oic5XXCp0FErnDLNfqAV/1BkIhkg9+JodJ/iOqAD/kWgHaHR+2dxvhrNgtiVg=="
+        "integrity": "sha512-iG9efDNALdZb+8M8Zw4+bzp7QracCowFlm7W5Kci0doKjIjWgLMMSHVTvX1jnpHmg5OmR0RSKmq0NlxzmYhfDA=="
       }
     }
   }
