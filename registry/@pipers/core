@@ -1,7 +1,7 @@
 {
   "name": "@pipers/core",
   "dist-tags": {
-    "latest": "0.62.1"
+    "latest": "0.62.2"
   },
   "versions": {
     "0.62.0": {
@@ -9,14 +9,14 @@
       "version": "0.62.0",
       "description": "A TypeScript backend framework, with pipeline mode.",
       "dependencies": {
-        "@pipers/logger": "0.62.1",
-        "@pipers/toolkit": "0.62.1"
+        "@pipers/logger": "0.62.2",
+        "@pipers/toolkit": "0.62.2"
       },
       "peerDependencies": {},
       "time": "2026-08-28T17:13:44.997Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/core-0.62.0.tgz",
-        "integrity": "sha512-QyuTdxPXwDRyVJJNVWyqgMf1lzmzgeDu1GrCFB/U4+WrM5W2Jr2tnw229o72bFrJywSONkbCEB7HiyiOMj1zYA=="
+        "integrity": "sha512-qgzDYY6la1jtwfsJCbe/2/xZb5ka2N+FZ51ZwvRP4I8CHuevNMH0plUdNQwwKLknSg2YF3lRe56hFtpWHdZkTA=="
       }
     },
     "0.62.1": {
@@ -24,21 +24,37 @@
       "version": "0.62.1",
       "description": "A TypeScript backend framework, with pipeline mode.",
       "dependencies": {
-        "@pipers/logger": "0.62.1",
-        "@pipers/toolkit": "0.62.1"
+        "@pipers/logger": "0.62.2",
+        "@pipers/toolkit": "0.62.2"
       },
       "peerDependencies": {},
       "time": "2026-08-28T17:13:44.997Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/core-0.62.1.tgz",
-        "integrity": "sha512-QyuTdxPXwDRyVJJNVWyqgMf1lzmzgeDu1GrCFB/U4+WrM5W2Jr2tnw229o72bFrJywSONkbCEB7HiyiOMj1zYA=="
+        "integrity": "sha512-qgzDYY6la1jtwfsJCbe/2/xZb5ka2N+FZ51ZwvRP4I8CHuevNMH0plUdNQwwKLknSg2YF3lRe56hFtpWHdZkTA=="
+      }
+    },
+    "0.62.2": {
+      "name": "@pipers/core",
+      "version": "0.62.2",
+      "description": "A TypeScript backend framework, with pipeline mode.",
+      "dependencies": {
+        "@pipers/logger": "0.62.2",
+        "@pipers/toolkit": "0.62.2"
+      },
+      "peerDependencies": {},
+      "time": "2026-08-28T18:17:18.337Z",
+      "dist": {
+        "tarball": "https://npm.iinfinity.io/-/@pipers/core-0.62.2.tgz",
+        "integrity": "sha512-qgzDYY6la1jtwfsJCbe/2/xZb5ka2N+FZ51ZwvRP4I8CHuevNMH0plUdNQwwKLknSg2YF3lRe56hFtpWHdZkTA=="
       }
     }
   },
   "time": {
     "0.62.0": "2026-08-28T17:13:44.997Z",
     "0.62.1": "2026-08-28T17:13:44.997Z",
+    "0.62.2": "2026-08-28T18:17:18.337Z",
     "created": "2026-08-28T17:13:44.997Z",
-    "modified": "2026-08-28T17:13:44.997Z"
+    "modified": "2026-08-28T18:17:18.337Z"
   }
 }

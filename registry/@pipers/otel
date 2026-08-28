@@ -1,7 +1,7 @@
 {
   "name": "@pipers/otel",
   "dist-tags": {
-    "latest": "0.62.1"
+    "latest": "0.62.2"
   },
   "versions": {
     "0.62.0": {
@@ -10,12 +10,12 @@
       "description": "OpenTelemetry integration for pipers framework.",
       "dependencies": {
         "@opentelemetry/api": "1.9.0",
-        "@pipers/core": "0.62.1"
+        "@pipers/core": "0.62.2"
       },
       "time": "2026-08-28T17:13:45.473Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/otel-0.62.0.tgz",
-        "integrity": "sha512-93JAw2VzHzY1v1bsNydU+JPdISM37v4JUTimdw6ifIrSEvLilAaSW5YZ70M6Qn2qWcS54td6F6ZR0u+GyhvHVA=="
+        "integrity": "sha512-xeN4qeqQHq0KUj7E/R+VvTzw/2FcgpSSWBUSQtGcPgCZYkh7ck0f6hvLiCGAtKAmdCIm9sCAb14o7o6vWs9kzw=="
       }
     },
     "0.62.1": {
@@ -24,19 +24,34 @@
       "description": "OpenTelemetry integration for pipers framework.",
       "dependencies": {
         "@opentelemetry/api": "1.9.0",
-        "@pipers/core": "0.62.1"
+        "@pipers/core": "0.62.2"
       },
       "time": "2026-08-28T17:13:45.473Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/otel-0.62.1.tgz",
-        "integrity": "sha512-93JAw2VzHzY1v1bsNydU+JPdISM37v4JUTimdw6ifIrSEvLilAaSW5YZ70M6Qn2qWcS54td6F6ZR0u+GyhvHVA=="
+        "integrity": "sha512-xeN4qeqQHq0KUj7E/R+VvTzw/2FcgpSSWBUSQtGcPgCZYkh7ck0f6hvLiCGAtKAmdCIm9sCAb14o7o6vWs9kzw=="
+      }
+    },
+    "0.62.2": {
+      "name": "@pipers/otel",
+      "version": "0.62.2",
+      "description": "OpenTelemetry integration for pipers framework.",
+      "dependencies": {
+        "@opentelemetry/api": "1.9.0",
+        "@pipers/core": "0.62.2"
+      },
+      "time": "2026-08-28T18:17:18.803Z",
+      "dist": {
+        "tarball": "https://npm.iinfinity.io/-/@pipers/otel-0.62.2.tgz",
+        "integrity": "sha512-xeN4qeqQHq0KUj7E/R+VvTzw/2FcgpSSWBUSQtGcPgCZYkh7ck0f6hvLiCGAtKAmdCIm9sCAb14o7o6vWs9kzw=="
       }
     }
   },
   "time": {
     "0.62.0": "2026-08-28T17:13:45.473Z",
     "0.62.1": "2026-08-28T17:13:45.473Z",
+    "0.62.2": "2026-08-28T18:17:18.803Z",
     "created": "2026-08-28T17:13:45.473Z",
-    "modified": "2026-08-28T17:13:45.473Z"
+    "modified": "2026-08-28T18:17:18.803Z"
   }
 }

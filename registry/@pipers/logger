@@ -1,7 +1,7 @@
 {
   "name": "@pipers/logger",
   "dist-tags": {
-    "latest": "0.62.1"
+    "latest": "0.62.2"
   },
   "versions": {
     "0.62.0": {
@@ -9,12 +9,12 @@
       "version": "0.62.0",
       "description": "Logger for pipers framework.",
       "dependencies": {
-        "@pipers/toolkit": "0.62.1"
+        "@pipers/toolkit": "0.62.2"
       },
       "time": "2026-08-28T17:13:43.799Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/logger-0.62.0.tgz",
-        "integrity": "sha512-niePLE6AwG09bzr677lC3o2fcLuIuKEbQ6H3WGOMOVgryBjpzaWwCORU2a3aDJxCXEvKTQwZAnQrw+VsaQTQNQ=="
+        "integrity": "sha512-ib0iQD6mWZMRHAMvvZDPc50HFY36yRSkLlmZT6O6HJTDnObLA9OHbuPiqHXyQvz7hBTTQoG3OYwGv4A1eO3CYw=="
       }
     },
     "0.62.1": {
@@ -22,19 +22,33 @@
       "version": "0.62.1",
       "description": "Logger for pipers framework.",
       "dependencies": {
-        "@pipers/toolkit": "0.62.1"
+        "@pipers/toolkit": "0.62.2"
       },
       "time": "2026-08-28T17:13:43.799Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/logger-0.62.1.tgz",
-        "integrity": "sha512-niePLE6AwG09bzr677lC3o2fcLuIuKEbQ6H3WGOMOVgryBjpzaWwCORU2a3aDJxCXEvKTQwZAnQrw+VsaQTQNQ=="
+        "integrity": "sha512-ib0iQD6mWZMRHAMvvZDPc50HFY36yRSkLlmZT6O6HJTDnObLA9OHbuPiqHXyQvz7hBTTQoG3OYwGv4A1eO3CYw=="
+      }
+    },
+    "0.62.2": {
+      "name": "@pipers/logger",
+      "version": "0.62.2",
+      "description": "Logger for pipers framework.",
+      "dependencies": {
+        "@pipers/toolkit": "0.62.2"
+      },
+      "time": "2026-08-28T18:17:17.113Z",
+      "dist": {
+        "tarball": "https://npm.iinfinity.io/-/@pipers/logger-0.62.2.tgz",
+        "integrity": "sha512-ib0iQD6mWZMRHAMvvZDPc50HFY36yRSkLlmZT6O6HJTDnObLA9OHbuPiqHXyQvz7hBTTQoG3OYwGv4A1eO3CYw=="
       }
     }
   },
   "time": {
     "0.62.0": "2026-08-28T17:13:43.799Z",
     "0.62.1": "2026-08-28T17:13:43.799Z",
+    "0.62.2": "2026-08-28T18:17:17.113Z",
     "created": "2026-08-28T17:13:43.799Z",
-    "modified": "2026-08-28T17:13:43.799Z"
+    "modified": "2026-08-28T18:17:17.113Z"
   }
 }

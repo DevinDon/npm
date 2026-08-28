@@ -1,7 +1,7 @@
 {
   "name": "@pipers/eslint-config",
   "dist-tags": {
-    "latest": "0.62.1"
+    "latest": "0.62.2"
   },
   "versions": {
     "0.62.0": {
@@ -19,7 +19,7 @@
       "time": "2026-08-28T17:13:41.022Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.62.0.tgz",
-        "integrity": "sha512-/9/+RpculChbwTPsuKWKA+SlBrEfswP2UniyRBAoFkupAmXaXGS91KqgUr5n1VrOE8skAbTY3W/yUdF78Qb1ug=="
+        "integrity": "sha512-swN3kBqbvxYYOUKcSEGwyDjPcrjEQaJTMvGfiz5UIuEUKLzQIR4rM5GkOlDbfyd4kY5sR+RK49/P4KDpiR/KEQ=="
       }
     },
     "0.62.1": {
@@ -37,14 +37,33 @@
       "time": "2026-08-28T17:13:41.022Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.62.1.tgz",
-        "integrity": "sha512-/9/+RpculChbwTPsuKWKA+SlBrEfswP2UniyRBAoFkupAmXaXGS91KqgUr5n1VrOE8skAbTY3W/yUdF78Qb1ug=="
+        "integrity": "sha512-swN3kBqbvxYYOUKcSEGwyDjPcrjEQaJTMvGfiz5UIuEUKLzQIR4rM5GkOlDbfyd4kY5sR+RK49/P4KDpiR/KEQ=="
+      }
+    },
+    "0.62.2": {
+      "name": "@pipers/eslint-config",
+      "version": "0.62.2",
+      "description": "ESLint Rules for pipers framework.",
+      "dependencies": {
+        "@stylistic/eslint-plugin": "5.10.0",
+        "@typescript-eslint/parser": "8.67.0",
+        "eslint": "10.8.1",
+        "eslint-import-resolver-typescript": "4.4.5",
+        "eslint-plugin-import-x": "4.17.1",
+        "typescript-eslint": "8.67.0"
+      },
+      "time": "2026-08-28T18:17:14.165Z",
+      "dist": {
+        "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.62.2.tgz",
+        "integrity": "sha512-swN3kBqbvxYYOUKcSEGwyDjPcrjEQaJTMvGfiz5UIuEUKLzQIR4rM5GkOlDbfyd4kY5sR+RK49/P4KDpiR/KEQ=="
       }
     }
   },
   "time": {
     "0.62.0": "2026-08-28T17:13:41.022Z",
     "0.62.1": "2026-08-28T17:13:41.022Z",
+    "0.62.2": "2026-08-28T18:17:14.165Z",
     "created": "2026-08-28T17:13:41.022Z",
-    "modified": "2026-08-28T17:13:41.022Z"
+    "modified": "2026-08-28T18:17:14.165Z"
   }
 }
