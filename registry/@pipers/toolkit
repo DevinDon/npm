@@ -1,7 +1,7 @@
 {
   "name": "@pipers/toolkit",
   "dist-tags": {
-    "latest": "0.62.0"
+    "latest": "0.62.1"
   },
   "versions": {
     "0.62.0": {
@@ -20,10 +20,39 @@
         "yaml": "2.9.0"
       },
       "peerDependencies": {},
+      "time": "2026-08-28T17:13:41.722Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/toolkit-0.62.0.tgz",
-        "integrity": "sha512-Nob5JVvOvXxhXcWWIA7UAZp4SeZUX+8L9kdChmryF7fJ18yewhjoM0DJAsLOskE2NuaLifljrciXA8IqGJhZdw=="
+        "integrity": "sha512-6Pq2MeF4zYLP/56pF0BwwOVBiwnLdt+hgo+3ev8cUG+0DT1Z4vkS3d+flWG6DGPjEiV0px6BWJaa4qeXPHRjvg=="
+      }
+    },
+    "0.62.1": {
+      "name": "@pipers/toolkit",
+      "version": "0.62.1",
+      "description": "Toolkit for pipers framework.",
+      "dependencies": {
+        "@types/fs-extra": "11.0.4",
+        "cron-parser": "5.10.0",
+        "destr": "2.0.5",
+        "fs-extra": "11.4.0",
+        "globby": "16.2.3",
+        "mime-lite": "1.0.3",
+        "minimatch": "10.2.6",
+        "type-fest": "5.8.0",
+        "yaml": "2.9.0"
+      },
+      "peerDependencies": {},
+      "time": "2026-08-28T17:13:41.722Z",
+      "dist": {
+        "tarball": "https://npm.iinfinity.io/-/@pipers/toolkit-0.62.1.tgz",
+        "integrity": "sha512-6Pq2MeF4zYLP/56pF0BwwOVBiwnLdt+hgo+3ev8cUG+0DT1Z4vkS3d+flWG6DGPjEiV0px6BWJaa4qeXPHRjvg=="
       }
     }
+  },
+  "time": {
+    "0.62.0": "2026-08-28T17:13:41.722Z",
+    "0.62.1": "2026-08-28T17:13:41.722Z",
+    "created": "2026-08-28T17:13:41.722Z",
+    "modified": "2026-08-28T17:13:41.722Z"
   }
 }
