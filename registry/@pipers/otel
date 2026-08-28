@@ -1,0 +1,21 @@
+{
+  "name": "@pipers/otel",
+  "dist-tags": {
+    "latest": "0.62.0"
+  },
+  "versions": {
+    "0.62.0": {
+      "name": "@pipers/otel",
+      "version": "0.62.0",
+      "description": "OpenTelemetry integration for pipers framework.",
+      "dependencies": {
+        "@opentelemetry/api": "1.9.0",
+        "@pipers/core": "0.62.0"
+      },
+      "dist": {
+        "tarball": "https://npm.iinfinity.io/-/@pipers/otel-0.62.0.tgz",
+        "integrity": "sha512-21/cYuFPF4M6sBkc2j7Cv5afk6ghz7qh6ZV/QcnEyTiPtnblW46PYyP5DGE0xLWd5RWsIPnTKI2LsNcSEEhtmQ=="
+      }
+    }
+  }
+}

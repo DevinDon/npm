@@ -1,23 +1,21 @@
 {
   "name": "@pipers/core",
   "dist-tags": {
-    "latest": "0.61.2"
+    "latest": "0.62.0"
   },
   "versions": {
-    "0.61.2": {
+    "0.62.0": {
       "name": "@pipers/core",
-      "version": "0.61.2",
+      "version": "0.62.0",
       "description": "A TypeScript backend framework, with pipeline mode.",
       "dependencies": {
-        "@pipers/logger": "0.61.2",
-        "@pipers/toolkit": "0.61.2"
+        "@pipers/logger": "0.62.0",
+        "@pipers/toolkit": "0.62.0"
       },
-      "peerDependencies": {
-        "@sinclair/typebox": "0.34.52"
-      },
+      "peerDependencies": {},
       "dist": {
-        "tarball": "https://npm.iinfinity.io/-/@pipers/core-0.61.2.tgz",
-        "integrity": "sha512-+D/J+99yPWfvlVr+mdQ4sLPVgwbUDrTbY/v+IfKiKun7L+nRBomYq92rCW1nOubCAHd87z40uglgBEWeejXTaQ=="
+        "tarball": "https://npm.iinfinity.io/-/@pipers/core-0.62.0.tgz",
+        "integrity": "sha512-jXUAJb8vN4Ziw780xJR832yk4zObxkrK00GZNHNuw21uL6jBGJuHNDMmY76dhLicMGdLPddj1ofJboB+3df7Mw=="
       }
     }
   }
