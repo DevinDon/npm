@@ -1,7 +1,7 @@
 {
   "name": "@pipers/core",
   "dist-tags": {
-    "latest": "0.62.2"
+    "latest": "0.62.3"
   },
   "versions": {
     "0.62.0": {
@@ -9,14 +9,14 @@
       "version": "0.62.0",
       "description": "A TypeScript backend framework, with pipeline mode.",
       "dependencies": {
-        "@pipers/logger": "0.62.2",
-        "@pipers/toolkit": "0.62.2"
+        "@pipers/logger": "0.62.3",
+        "@pipers/toolkit": "0.62.3"
       },
       "peerDependencies": {},
       "time": "2026-08-28T17:13:44.997Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/core-0.62.0.tgz",
-        "integrity": "sha512-qgzDYY6la1jtwfsJCbe/2/xZb5ka2N+FZ51ZwvRP4I8CHuevNMH0plUdNQwwKLknSg2YF3lRe56hFtpWHdZkTA=="
+        "integrity": "sha512-39VEwYRvS2s4HPH8F0Ahtjejb5piA2hfzsav+ZeiptRI8cxqVA//goNgNzVCRpsWv8tN9VUglYkP3C8KZrvXEA=="
       }
     },
     "0.62.1": {
@@ -24,14 +24,14 @@
       "version": "0.62.1",
       "description": "A TypeScript backend framework, with pipeline mode.",
       "dependencies": {
-        "@pipers/logger": "0.62.2",
-        "@pipers/toolkit": "0.62.2"
+        "@pipers/logger": "0.62.3",
+        "@pipers/toolkit": "0.62.3"
       },
       "peerDependencies": {},
       "time": "2026-08-28T17:13:44.997Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/core-0.62.1.tgz",
-        "integrity": "sha512-qgzDYY6la1jtwfsJCbe/2/xZb5ka2N+FZ51ZwvRP4I8CHuevNMH0plUdNQwwKLknSg2YF3lRe56hFtpWHdZkTA=="
+        "integrity": "sha512-39VEwYRvS2s4HPH8F0Ahtjejb5piA2hfzsav+ZeiptRI8cxqVA//goNgNzVCRpsWv8tN9VUglYkP3C8KZrvXEA=="
       }
     },
     "0.62.2": {
@@ -39,14 +39,29 @@
       "version": "0.62.2",
       "description": "A TypeScript backend framework, with pipeline mode.",
       "dependencies": {
-        "@pipers/logger": "0.62.2",
-        "@pipers/toolkit": "0.62.2"
+        "@pipers/logger": "0.62.3",
+        "@pipers/toolkit": "0.62.3"
       },
       "peerDependencies": {},
       "time": "2026-08-28T18:17:18.337Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/core-0.62.2.tgz",
-        "integrity": "sha512-qgzDYY6la1jtwfsJCbe/2/xZb5ka2N+FZ51ZwvRP4I8CHuevNMH0plUdNQwwKLknSg2YF3lRe56hFtpWHdZkTA=="
+        "integrity": "sha512-39VEwYRvS2s4HPH8F0Ahtjejb5piA2hfzsav+ZeiptRI8cxqVA//goNgNzVCRpsWv8tN9VUglYkP3C8KZrvXEA=="
+      }
+    },
+    "0.62.3": {
+      "name": "@pipers/core",
+      "version": "0.62.3",
+      "description": "A TypeScript backend framework, with pipeline mode.",
+      "dependencies": {
+        "@pipers/logger": "0.62.3",
+        "@pipers/toolkit": "0.62.3"
+      },
+      "peerDependencies": {},
+      "time": "2026-08-28T18:50:30.811Z",
+      "dist": {
+        "tarball": "https://npm.iinfinity.io/-/@pipers/core-0.62.3.tgz",
+        "integrity": "sha512-39VEwYRvS2s4HPH8F0Ahtjejb5piA2hfzsav+ZeiptRI8cxqVA//goNgNzVCRpsWv8tN9VUglYkP3C8KZrvXEA=="
       }
     }
   },
@@ -54,7 +69,8 @@
     "0.62.0": "2026-08-28T17:13:44.997Z",
     "0.62.1": "2026-08-28T17:13:44.997Z",
     "0.62.2": "2026-08-28T18:17:18.337Z",
+    "0.62.3": "2026-08-28T18:50:30.811Z",
     "created": "2026-08-28T17:13:44.997Z",
-    "modified": "2026-08-28T18:17:18.337Z"
+    "modified": "2026-08-28T18:50:30.811Z"
   }
 }
