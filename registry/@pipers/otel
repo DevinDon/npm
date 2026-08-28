@@ -1,7 +1,7 @@
 {
   "name": "@pipers/otel",
   "dist-tags": {
-    "latest": "0.62.3"
+    "latest": "0.62.4"
   },
   "versions": {
     "0.62.0": {
@@ -10,12 +10,12 @@
       "description": "OpenTelemetry integration for pipers framework.",
       "dependencies": {
         "@opentelemetry/api": "1.9.0",
-        "@pipers/core": "0.62.3"
+        "@pipers/core": "0.62.4"
       },
       "time": "2026-08-28T17:13:45.473Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/otel-0.62.0.tgz",
-        "integrity": "sha512-gX2I8URgJ/5XAtsy5WUJE20hjWSh9bKCQYR65zaGPh4r4muznkvABOW/q0Bc/2mvs7nx65nf/CuyWJQ8yUwWXQ=="
+        "integrity": "sha512-AyjDiqKFPBUNLXYHBnAR2t+jdNPXSSV1fs9IgD0s0ClL4clvhDQ6TGoO/TpqaE1omLWkaVriCy2mLTCYtHh+GA=="
       }
     },
     "0.62.1": {
@@ -24,12 +24,12 @@
       "description": "OpenTelemetry integration for pipers framework.",
       "dependencies": {
         "@opentelemetry/api": "1.9.0",
-        "@pipers/core": "0.62.3"
+        "@pipers/core": "0.62.4"
       },
       "time": "2026-08-28T17:13:45.473Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/otel-0.62.1.tgz",
-        "integrity": "sha512-gX2I8URgJ/5XAtsy5WUJE20hjWSh9bKCQYR65zaGPh4r4muznkvABOW/q0Bc/2mvs7nx65nf/CuyWJQ8yUwWXQ=="
+        "integrity": "sha512-AyjDiqKFPBUNLXYHBnAR2t+jdNPXSSV1fs9IgD0s0ClL4clvhDQ6TGoO/TpqaE1omLWkaVriCy2mLTCYtHh+GA=="
       }
     },
     "0.62.2": {
@@ -38,12 +38,12 @@
       "description": "OpenTelemetry integration for pipers framework.",
       "dependencies": {
         "@opentelemetry/api": "1.9.0",
-        "@pipers/core": "0.62.3"
+        "@pipers/core": "0.62.4"
       },
       "time": "2026-08-28T18:17:18.803Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/otel-0.62.2.tgz",
-        "integrity": "sha512-gX2I8URgJ/5XAtsy5WUJE20hjWSh9bKCQYR65zaGPh4r4muznkvABOW/q0Bc/2mvs7nx65nf/CuyWJQ8yUwWXQ=="
+        "integrity": "sha512-AyjDiqKFPBUNLXYHBnAR2t+jdNPXSSV1fs9IgD0s0ClL4clvhDQ6TGoO/TpqaE1omLWkaVriCy2mLTCYtHh+GA=="
       }
     },
     "0.62.3": {
@@ -52,12 +52,26 @@
       "description": "OpenTelemetry integration for pipers framework.",
       "dependencies": {
         "@opentelemetry/api": "1.9.0",
-        "@pipers/core": "0.62.3"
+        "@pipers/core": "0.62.4"
       },
       "time": "2026-08-28T18:50:31.311Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/otel-0.62.3.tgz",
-        "integrity": "sha512-gX2I8URgJ/5XAtsy5WUJE20hjWSh9bKCQYR65zaGPh4r4muznkvABOW/q0Bc/2mvs7nx65nf/CuyWJQ8yUwWXQ=="
+        "integrity": "sha512-AyjDiqKFPBUNLXYHBnAR2t+jdNPXSSV1fs9IgD0s0ClL4clvhDQ6TGoO/TpqaE1omLWkaVriCy2mLTCYtHh+GA=="
+      }
+    },
+    "0.62.4": {
+      "name": "@pipers/otel",
+      "version": "0.62.4",
+      "description": "OpenTelemetry integration for pipers framework.",
+      "dependencies": {
+        "@opentelemetry/api": "1.9.0",
+        "@pipers/core": "0.62.4"
+      },
+      "time": "2026-08-28T19:02:02.575Z",
+      "dist": {
+        "tarball": "https://npm.iinfinity.io/-/@pipers/otel-0.62.4.tgz",
+        "integrity": "sha512-AyjDiqKFPBUNLXYHBnAR2t+jdNPXSSV1fs9IgD0s0ClL4clvhDQ6TGoO/TpqaE1omLWkaVriCy2mLTCYtHh+GA=="
       }
     }
   },
@@ -66,7 +80,8 @@
     "0.62.1": "2026-08-28T17:13:45.473Z",
     "0.62.2": "2026-08-28T18:17:18.803Z",
     "0.62.3": "2026-08-28T18:50:31.311Z",
+    "0.62.4": "2026-08-28T19:02:02.575Z",
     "created": "2026-08-28T17:13:45.473Z",
-    "modified": "2026-08-28T18:50:31.311Z"
+    "modified": "2026-08-28T19:02:02.575Z"
   }
 }

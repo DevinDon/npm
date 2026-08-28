@@ -1,7 +1,7 @@
 {
   "name": "@pipers/create",
   "dist-tags": {
-    "latest": "0.62.3"
+    "latest": "0.62.4"
   },
   "versions": {
     "0.62.0": {
@@ -9,7 +9,7 @@
       "version": "0.62.0",
       "description": "Create pipers workspace, application or module.",
       "dependencies": {
-        "@pipers/toolkit": "0.62.3",
+        "@pipers/toolkit": "0.62.4",
         "commander": "15.0.0",
         "inquirer": "14.0.2",
         "mustache": "4.2.0",
@@ -18,7 +18,7 @@
       "time": "2026-08-28T17:13:43.314Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/create-0.62.0.tgz",
-        "integrity": "sha512-CQgLlOZ/Kj00A2dvjS/b8d549IxTs7d2nT4166zi5GqPifntvUHscg+23lKoP5CjCtQ7SPOtb+tmWPYF5qK/JA=="
+        "integrity": "sha512-BX5VJ6EXtgbXlMp04QLXMphowiD4SDMPej1E3BYqIXO9rmz7K5RWWQYKGRiUeLlW6kfrrF6TpCvn6b0Dp6XCeg=="
       }
     },
     "0.62.1": {
@@ -26,7 +26,7 @@
       "version": "0.62.1",
       "description": "Create pipers workspace, application or module.",
       "dependencies": {
-        "@pipers/toolkit": "0.62.3",
+        "@pipers/toolkit": "0.62.4",
         "commander": "15.0.0",
         "inquirer": "14.0.2",
         "mustache": "4.2.0",
@@ -35,7 +35,7 @@
       "time": "2026-08-28T17:13:43.314Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/create-0.62.1.tgz",
-        "integrity": "sha512-CQgLlOZ/Kj00A2dvjS/b8d549IxTs7d2nT4166zi5GqPifntvUHscg+23lKoP5CjCtQ7SPOtb+tmWPYF5qK/JA=="
+        "integrity": "sha512-BX5VJ6EXtgbXlMp04QLXMphowiD4SDMPej1E3BYqIXO9rmz7K5RWWQYKGRiUeLlW6kfrrF6TpCvn6b0Dp6XCeg=="
       }
     },
     "0.62.2": {
@@ -43,7 +43,7 @@
       "version": "0.62.2",
       "description": "Create pipers workspace, application or module.",
       "dependencies": {
-        "@pipers/toolkit": "0.62.3",
+        "@pipers/toolkit": "0.62.4",
         "commander": "15.0.0",
         "inquirer": "14.0.2",
         "mustache": "4.2.0",
@@ -52,7 +52,7 @@
       "time": "2026-08-28T18:17:16.673Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/create-0.62.2.tgz",
-        "integrity": "sha512-CQgLlOZ/Kj00A2dvjS/b8d549IxTs7d2nT4166zi5GqPifntvUHscg+23lKoP5CjCtQ7SPOtb+tmWPYF5qK/JA=="
+        "integrity": "sha512-BX5VJ6EXtgbXlMp04QLXMphowiD4SDMPej1E3BYqIXO9rmz7K5RWWQYKGRiUeLlW6kfrrF6TpCvn6b0Dp6XCeg=="
       }
     },
     "0.62.3": {
@@ -60,7 +60,7 @@
       "version": "0.62.3",
       "description": "Create pipers workspace, application or module.",
       "dependencies": {
-        "@pipers/toolkit": "0.62.3",
+        "@pipers/toolkit": "0.62.4",
         "commander": "15.0.0",
         "inquirer": "14.0.2",
         "mustache": "4.2.0",
@@ -69,7 +69,24 @@
       "time": "2026-08-28T18:50:28.955Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/create-0.62.3.tgz",
-        "integrity": "sha512-CQgLlOZ/Kj00A2dvjS/b8d549IxTs7d2nT4166zi5GqPifntvUHscg+23lKoP5CjCtQ7SPOtb+tmWPYF5qK/JA=="
+        "integrity": "sha512-BX5VJ6EXtgbXlMp04QLXMphowiD4SDMPej1E3BYqIXO9rmz7K5RWWQYKGRiUeLlW6kfrrF6TpCvn6b0Dp6XCeg=="
+      }
+    },
+    "0.62.4": {
+      "name": "@pipers/create",
+      "version": "0.62.4",
+      "description": "Create pipers workspace, application or module.",
+      "dependencies": {
+        "@pipers/toolkit": "0.62.4",
+        "commander": "15.0.0",
+        "inquirer": "14.0.2",
+        "mustache": "4.2.0",
+        "zx": "8.8.5"
+      },
+      "time": "2026-08-28T19:02:00.291Z",
+      "dist": {
+        "tarball": "https://npm.iinfinity.io/-/@pipers/create-0.62.4.tgz",
+        "integrity": "sha512-BX5VJ6EXtgbXlMp04QLXMphowiD4SDMPej1E3BYqIXO9rmz7K5RWWQYKGRiUeLlW6kfrrF6TpCvn6b0Dp6XCeg=="
       }
     }
   },
@@ -78,7 +95,8 @@
     "0.62.1": "2026-08-28T17:13:43.314Z",
     "0.62.2": "2026-08-28T18:17:16.673Z",
     "0.62.3": "2026-08-28T18:50:28.955Z",
+    "0.62.4": "2026-08-28T19:02:00.291Z",
     "created": "2026-08-28T17:13:43.314Z",
-    "modified": "2026-08-28T18:50:28.955Z"
+    "modified": "2026-08-28T19:02:00.291Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "@pipers/toolkit",
   "dist-tags": {
-    "latest": "0.62.3"
+    "latest": "0.62.4"
   },
   "versions": {
     "0.62.0": {
@@ -23,7 +23,7 @@
       "time": "2026-08-28T17:13:41.722Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/toolkit-0.62.0.tgz",
-        "integrity": "sha512-qyWAT81UWlEW+Ooo5ImkgqyqLfMBT0c4RyGeiQaYYOSy7mOTKVqLsfrFN2Y5HRifmXBSspwAtPHui5mhydHT4Q=="
+        "integrity": "sha512-7QuapZTl3VnyXbvP8qLpkSIYl26Xr5UzPhlnTnSn46VReHiD1JJOhKXrVVhkiR2I/zhko6DtqzqmGBvimzTd5w=="
       }
     },
     "0.62.1": {
@@ -45,7 +45,7 @@
       "time": "2026-08-28T17:13:41.722Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/toolkit-0.62.1.tgz",
-        "integrity": "sha512-qyWAT81UWlEW+Ooo5ImkgqyqLfMBT0c4RyGeiQaYYOSy7mOTKVqLsfrFN2Y5HRifmXBSspwAtPHui5mhydHT4Q=="
+        "integrity": "sha512-7QuapZTl3VnyXbvP8qLpkSIYl26Xr5UzPhlnTnSn46VReHiD1JJOhKXrVVhkiR2I/zhko6DtqzqmGBvimzTd5w=="
       }
     },
     "0.62.2": {
@@ -67,7 +67,7 @@
       "time": "2026-08-28T18:17:14.950Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/toolkit-0.62.2.tgz",
-        "integrity": "sha512-qyWAT81UWlEW+Ooo5ImkgqyqLfMBT0c4RyGeiQaYYOSy7mOTKVqLsfrFN2Y5HRifmXBSspwAtPHui5mhydHT4Q=="
+        "integrity": "sha512-7QuapZTl3VnyXbvP8qLpkSIYl26Xr5UzPhlnTnSn46VReHiD1JJOhKXrVVhkiR2I/zhko6DtqzqmGBvimzTd5w=="
       }
     },
     "0.62.3": {
@@ -89,7 +89,29 @@
       "time": "2026-08-28T18:50:27.066Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/toolkit-0.62.3.tgz",
-        "integrity": "sha512-qyWAT81UWlEW+Ooo5ImkgqyqLfMBT0c4RyGeiQaYYOSy7mOTKVqLsfrFN2Y5HRifmXBSspwAtPHui5mhydHT4Q=="
+        "integrity": "sha512-7QuapZTl3VnyXbvP8qLpkSIYl26Xr5UzPhlnTnSn46VReHiD1JJOhKXrVVhkiR2I/zhko6DtqzqmGBvimzTd5w=="
+      }
+    },
+    "0.62.4": {
+      "name": "@pipers/toolkit",
+      "version": "0.62.4",
+      "description": "Toolkit for pipers framework.",
+      "dependencies": {
+        "@types/fs-extra": "11.0.4",
+        "cron-parser": "5.10.0",
+        "destr": "2.0.5",
+        "fs-extra": "11.4.0",
+        "globby": "16.2.3",
+        "mime-lite": "1.0.3",
+        "minimatch": "10.2.6",
+        "type-fest": "5.8.0",
+        "yaml": "2.9.0"
+      },
+      "peerDependencies": {},
+      "time": "2026-08-28T19:01:58.451Z",
+      "dist": {
+        "tarball": "https://npm.iinfinity.io/-/@pipers/toolkit-0.62.4.tgz",
+        "integrity": "sha512-7QuapZTl3VnyXbvP8qLpkSIYl26Xr5UzPhlnTnSn46VReHiD1JJOhKXrVVhkiR2I/zhko6DtqzqmGBvimzTd5w=="
       }
     }
   },
@@ -98,7 +120,8 @@
     "0.62.1": "2026-08-28T17:13:41.722Z",
     "0.62.2": "2026-08-28T18:17:14.950Z",
     "0.62.3": "2026-08-28T18:50:27.066Z",
+    "0.62.4": "2026-08-28T19:01:58.451Z",
     "created": "2026-08-28T17:13:41.722Z",
-    "modified": "2026-08-28T18:50:27.066Z"
+    "modified": "2026-08-28T19:01:58.451Z"
   }
 }
