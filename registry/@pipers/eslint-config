@@ -1,7 +1,7 @@
 {
   "name": "@pipers/eslint-config",
   "dist-tags": {
-    "latest": "0.62.4"
+    "latest": "0.63.0"
   },
   "versions": {
     "0.62.0": {
@@ -19,7 +19,7 @@
       "time": "2026-08-28T17:13:41.022Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.62.0.tgz",
-        "integrity": "sha512-Dd9lXY5Ifn8FZsnwpdhYs2S7J/lFMFGUTq9WxM5sH9OApgUgmX/fvlrYKxHq3d1kuF0EzgeyeV/HxHyhsxq1ow=="
+        "integrity": "sha512-OStj4SqHFESZPwZ2YiSSstN65+ndGesWhTxj2FNLdDVNllX7DthR08WCT4PAWTO6IbZw/sSf+Dhkc4ETQ5XYww=="
       }
     },
     "0.62.1": {
@@ -37,7 +37,7 @@
       "time": "2026-08-28T17:13:41.022Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.62.1.tgz",
-        "integrity": "sha512-Dd9lXY5Ifn8FZsnwpdhYs2S7J/lFMFGUTq9WxM5sH9OApgUgmX/fvlrYKxHq3d1kuF0EzgeyeV/HxHyhsxq1ow=="
+        "integrity": "sha512-OStj4SqHFESZPwZ2YiSSstN65+ndGesWhTxj2FNLdDVNllX7DthR08WCT4PAWTO6IbZw/sSf+Dhkc4ETQ5XYww=="
       }
     },
     "0.62.2": {
@@ -55,7 +55,7 @@
       "time": "2026-08-28T18:17:14.165Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.62.2.tgz",
-        "integrity": "sha512-Dd9lXY5Ifn8FZsnwpdhYs2S7J/lFMFGUTq9WxM5sH9OApgUgmX/fvlrYKxHq3d1kuF0EzgeyeV/HxHyhsxq1ow=="
+        "integrity": "sha512-OStj4SqHFESZPwZ2YiSSstN65+ndGesWhTxj2FNLdDVNllX7DthR08WCT4PAWTO6IbZw/sSf+Dhkc4ETQ5XYww=="
       }
     },
     "0.62.3": {
@@ -73,7 +73,7 @@
       "time": "2026-08-28T18:50:26.249Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.62.3.tgz",
-        "integrity": "sha512-Dd9lXY5Ifn8FZsnwpdhYs2S7J/lFMFGUTq9WxM5sH9OApgUgmX/fvlrYKxHq3d1kuF0EzgeyeV/HxHyhsxq1ow=="
+        "integrity": "sha512-OStj4SqHFESZPwZ2YiSSstN65+ndGesWhTxj2FNLdDVNllX7DthR08WCT4PAWTO6IbZw/sSf+Dhkc4ETQ5XYww=="
       }
     },
     "0.62.4": {
@@ -91,7 +91,25 @@
       "time": "2026-08-28T19:01:57.661Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.62.4.tgz",
-        "integrity": "sha512-Dd9lXY5Ifn8FZsnwpdhYs2S7J/lFMFGUTq9WxM5sH9OApgUgmX/fvlrYKxHq3d1kuF0EzgeyeV/HxHyhsxq1ow=="
+        "integrity": "sha512-OStj4SqHFESZPwZ2YiSSstN65+ndGesWhTxj2FNLdDVNllX7DthR08WCT4PAWTO6IbZw/sSf+Dhkc4ETQ5XYww=="
+      }
+    },
+    "0.63.0": {
+      "name": "@pipers/eslint-config",
+      "version": "0.63.0",
+      "description": "ESLint Rules for pipers framework.",
+      "dependencies": {
+        "@stylistic/eslint-plugin": "5.10.0",
+        "@typescript-eslint/parser": "8.67.0",
+        "eslint": "10.8.1",
+        "eslint-import-resolver-typescript": "4.4.5",
+        "eslint-plugin-import-x": "4.17.1",
+        "typescript-eslint": "8.67.0"
+      },
+      "time": "2026-09-26T18:10:41.347Z",
+      "dist": {
+        "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.63.0.tgz",
+        "integrity": "sha512-OStj4SqHFESZPwZ2YiSSstN65+ndGesWhTxj2FNLdDVNllX7DthR08WCT4PAWTO6IbZw/sSf+Dhkc4ETQ5XYww=="
       }
     }
   },
@@ -101,7 +119,8 @@
     "0.62.2": "2026-08-28T18:17:14.165Z",
     "0.62.3": "2026-08-28T18:50:26.249Z",
     "0.62.4": "2026-08-28T19:01:57.661Z",
+    "0.63.0": "2026-09-26T18:10:41.347Z",
     "created": "2026-08-28T17:13:41.022Z",
-    "modified": "2026-08-28T19:01:57.661Z"
+    "modified": "2026-09-26T18:10:41.347Z"
   }
 }
