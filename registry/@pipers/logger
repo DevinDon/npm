@@ -1,7 +1,7 @@
 {
   "name": "@pipers/logger",
   "dist-tags": {
-    "latest": "0.63.0"
+    "latest": "0.64.0"
   },
   "versions": {
     "0.62.0": {
@@ -9,12 +9,12 @@
       "version": "0.62.0",
       "description": "Logger for pipers framework.",
       "dependencies": {
-        "@pipers/toolkit": "0.63.0"
+        "@pipers/toolkit": "0.64.0"
       },
       "time": "2026-08-28T17:13:43.799Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/logger-0.62.0.tgz",
-        "integrity": "sha512-5M0jJu15zkJHsBxH7BxR7yFAeDvPqcRQ6c2EzRLVbF+OdEdiY2v2BmxAzgkLbZywpJ3GNN8g8UUqocBEbSj/5g=="
+        "integrity": "sha512-t7UpTyl0kvaCGOb8CdqfhMJ1UQPiRukoockCheKhA9KyGhSBTeRtsnz2Lv91+MPXe/eud7oGRKoyeuozN/SDbA=="
       }
     },
     "0.62.1": {
@@ -22,12 +22,12 @@
       "version": "0.62.1",
       "description": "Logger for pipers framework.",
       "dependencies": {
-        "@pipers/toolkit": "0.63.0"
+        "@pipers/toolkit": "0.64.0"
       },
       "time": "2026-08-28T17:13:43.799Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/logger-0.62.1.tgz",
-        "integrity": "sha512-5M0jJu15zkJHsBxH7BxR7yFAeDvPqcRQ6c2EzRLVbF+OdEdiY2v2BmxAzgkLbZywpJ3GNN8g8UUqocBEbSj/5g=="
+        "integrity": "sha512-t7UpTyl0kvaCGOb8CdqfhMJ1UQPiRukoockCheKhA9KyGhSBTeRtsnz2Lv91+MPXe/eud7oGRKoyeuozN/SDbA=="
       }
     },
     "0.62.2": {
@@ -35,12 +35,12 @@
       "version": "0.62.2",
       "description": "Logger for pipers framework.",
       "dependencies": {
-        "@pipers/toolkit": "0.63.0"
+        "@pipers/toolkit": "0.64.0"
       },
       "time": "2026-08-28T18:17:17.113Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/logger-0.62.2.tgz",
-        "integrity": "sha512-5M0jJu15zkJHsBxH7BxR7yFAeDvPqcRQ6c2EzRLVbF+OdEdiY2v2BmxAzgkLbZywpJ3GNN8g8UUqocBEbSj/5g=="
+        "integrity": "sha512-t7UpTyl0kvaCGOb8CdqfhMJ1UQPiRukoockCheKhA9KyGhSBTeRtsnz2Lv91+MPXe/eud7oGRKoyeuozN/SDbA=="
       }
     },
     "0.62.3": {
@@ -48,12 +48,12 @@
       "version": "0.62.3",
       "description": "Logger for pipers framework.",
       "dependencies": {
-        "@pipers/toolkit": "0.63.0"
+        "@pipers/toolkit": "0.64.0"
       },
       "time": "2026-08-28T18:50:29.441Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/logger-0.62.3.tgz",
-        "integrity": "sha512-5M0jJu15zkJHsBxH7BxR7yFAeDvPqcRQ6c2EzRLVbF+OdEdiY2v2BmxAzgkLbZywpJ3GNN8g8UUqocBEbSj/5g=="
+        "integrity": "sha512-t7UpTyl0kvaCGOb8CdqfhMJ1UQPiRukoockCheKhA9KyGhSBTeRtsnz2Lv91+MPXe/eud7oGRKoyeuozN/SDbA=="
       }
     },
     "0.62.4": {
@@ -61,12 +61,12 @@
       "version": "0.62.4",
       "description": "Logger for pipers framework.",
       "dependencies": {
-        "@pipers/toolkit": "0.63.0"
+        "@pipers/toolkit": "0.64.0"
       },
       "time": "2026-08-28T19:02:00.796Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/logger-0.62.4.tgz",
-        "integrity": "sha512-5M0jJu15zkJHsBxH7BxR7yFAeDvPqcRQ6c2EzRLVbF+OdEdiY2v2BmxAzgkLbZywpJ3GNN8g8UUqocBEbSj/5g=="
+        "integrity": "sha512-t7UpTyl0kvaCGOb8CdqfhMJ1UQPiRukoockCheKhA9KyGhSBTeRtsnz2Lv91+MPXe/eud7oGRKoyeuozN/SDbA=="
       }
     },
     "0.63.0": {
@@ -74,12 +74,25 @@
       "version": "0.63.0",
       "description": "Logger for pipers framework.",
       "dependencies": {
-        "@pipers/toolkit": "0.63.0"
+        "@pipers/toolkit": "0.64.0"
       },
       "time": "2026-09-26T18:10:44.579Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/logger-0.63.0.tgz",
-        "integrity": "sha512-5M0jJu15zkJHsBxH7BxR7yFAeDvPqcRQ6c2EzRLVbF+OdEdiY2v2BmxAzgkLbZywpJ3GNN8g8UUqocBEbSj/5g=="
+        "integrity": "sha512-t7UpTyl0kvaCGOb8CdqfhMJ1UQPiRukoockCheKhA9KyGhSBTeRtsnz2Lv91+MPXe/eud7oGRKoyeuozN/SDbA=="
+      }
+    },
+    "0.64.0": {
+      "name": "@pipers/logger",
+      "version": "0.64.0",
+      "description": "Logger for pipers framework.",
+      "dependencies": {
+        "@pipers/toolkit": "0.64.0"
+      },
+      "time": "2026-09-27T20:24:36.771Z",
+      "dist": {
+        "tarball": "https://npm.iinfinity.io/-/@pipers/logger-0.64.0.tgz",
+        "integrity": "sha512-t7UpTyl0kvaCGOb8CdqfhMJ1UQPiRukoockCheKhA9KyGhSBTeRtsnz2Lv91+MPXe/eud7oGRKoyeuozN/SDbA=="
       }
     }
   },
@@ -90,7 +103,8 @@
     "0.62.3": "2026-08-28T18:50:29.441Z",
     "0.62.4": "2026-08-28T19:02:00.796Z",
     "0.63.0": "2026-09-26T18:10:44.579Z",
+    "0.64.0": "2026-09-27T20:24:36.771Z",
     "created": "2026-08-28T17:13:43.799Z",
-    "modified": "2026-09-26T18:10:44.579Z"
+    "modified": "2026-09-27T20:24:36.771Z"
   }
 }
