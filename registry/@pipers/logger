@@ -14,7 +14,7 @@
       "time": "2026-08-28T17:13:43.799Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/logger-0.62.0.tgz",
-        "integrity": "sha512-2SkS5qtz5eMGH8q3/FAXkE59LFmn3RNg3eUMkI6+vSXI8d2D1lESCPhIIMr/tx4bgdgmv3Yeiirpp1HVbV66/A=="
+        "integrity": "sha512-lxqVKw8lxvrJy7MpI7gznAJn9IgwDXccOVHQ7B7SkBlroJuk+J85RmijttG61vJflr0oty2ESJHsR8d1NhWiIA=="
       }
     },
     "0.62.1": {
@@ -27,7 +27,7 @@
       "time": "2026-08-28T17:13:43.799Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/logger-0.62.1.tgz",
-        "integrity": "sha512-2SkS5qtz5eMGH8q3/FAXkE59LFmn3RNg3eUMkI6+vSXI8d2D1lESCPhIIMr/tx4bgdgmv3Yeiirpp1HVbV66/A=="
+        "integrity": "sha512-lxqVKw8lxvrJy7MpI7gznAJn9IgwDXccOVHQ7B7SkBlroJuk+J85RmijttG61vJflr0oty2ESJHsR8d1NhWiIA=="
       }
     },
     "0.62.2": {
@@ -40,7 +40,7 @@
       "time": "2026-08-28T18:17:17.113Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/logger-0.62.2.tgz",
-        "integrity": "sha512-2SkS5qtz5eMGH8q3/FAXkE59LFmn3RNg3eUMkI6+vSXI8d2D1lESCPhIIMr/tx4bgdgmv3Yeiirpp1HVbV66/A=="
+        "integrity": "sha512-lxqVKw8lxvrJy7MpI7gznAJn9IgwDXccOVHQ7B7SkBlroJuk+J85RmijttG61vJflr0oty2ESJHsR8d1NhWiIA=="
       }
     },
     "0.62.3": {
@@ -53,7 +53,7 @@
       "time": "2026-08-28T18:50:29.441Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/logger-0.62.3.tgz",
-        "integrity": "sha512-2SkS5qtz5eMGH8q3/FAXkE59LFmn3RNg3eUMkI6+vSXI8d2D1lESCPhIIMr/tx4bgdgmv3Yeiirpp1HVbV66/A=="
+        "integrity": "sha512-lxqVKw8lxvrJy7MpI7gznAJn9IgwDXccOVHQ7B7SkBlroJuk+J85RmijttG61vJflr0oty2ESJHsR8d1NhWiIA=="
       }
     },
     "0.62.4": {
@@ -66,7 +66,7 @@
       "time": "2026-08-28T19:02:00.796Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/logger-0.62.4.tgz",
-        "integrity": "sha512-2SkS5qtz5eMGH8q3/FAXkE59LFmn3RNg3eUMkI6+vSXI8d2D1lESCPhIIMr/tx4bgdgmv3Yeiirpp1HVbV66/A=="
+        "integrity": "sha512-lxqVKw8lxvrJy7MpI7gznAJn9IgwDXccOVHQ7B7SkBlroJuk+J85RmijttG61vJflr0oty2ESJHsR8d1NhWiIA=="
       }
     },
     "0.63.0": {
@@ -79,7 +79,7 @@
       "time": "2026-09-26T18:10:44.579Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/logger-0.63.0.tgz",
-        "integrity": "sha512-2SkS5qtz5eMGH8q3/FAXkE59LFmn3RNg3eUMkI6+vSXI8d2D1lESCPhIIMr/tx4bgdgmv3Yeiirpp1HVbV66/A=="
+        "integrity": "sha512-lxqVKw8lxvrJy7MpI7gznAJn9IgwDXccOVHQ7B7SkBlroJuk+J85RmijttG61vJflr0oty2ESJHsR8d1NhWiIA=="
       }
     },
     "0.64.0": {
@@ -92,7 +92,7 @@
       "time": "2026-09-27T20:24:36.771Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/logger-0.64.0.tgz",
-        "integrity": "sha512-2SkS5qtz5eMGH8q3/FAXkE59LFmn3RNg3eUMkI6+vSXI8d2D1lESCPhIIMr/tx4bgdgmv3Yeiirpp1HVbV66/A=="
+        "integrity": "sha512-lxqVKw8lxvrJy7MpI7gznAJn9IgwDXccOVHQ7B7SkBlroJuk+J85RmijttG61vJflr0oty2ESJHsR8d1NhWiIA=="
       }
     },
     "0.64.1": {
@@ -102,10 +102,10 @@
       "dependencies": {
         "@pipers/toolkit": "0.64.1"
       },
-      "time": "2026-09-28T17:08:48.726Z",
+      "time": "2026-09-28T18:22:34.004Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/logger-0.64.1.tgz",
-        "integrity": "sha512-2SkS5qtz5eMGH8q3/FAXkE59LFmn3RNg3eUMkI6+vSXI8d2D1lESCPhIIMr/tx4bgdgmv3Yeiirpp1HVbV66/A=="
+        "integrity": "sha512-lxqVKw8lxvrJy7MpI7gznAJn9IgwDXccOVHQ7B7SkBlroJuk+J85RmijttG61vJflr0oty2ESJHsR8d1NhWiIA=="
       }
     }
   },
@@ -117,8 +117,8 @@
     "0.62.4": "2026-08-28T19:02:00.796Z",
     "0.63.0": "2026-09-26T18:10:44.579Z",
     "0.64.0": "2026-09-27T20:24:36.771Z",
-    "0.64.1": "2026-09-28T17:08:48.726Z",
+    "0.64.1": "2026-09-28T18:22:34.004Z",
     "created": "2026-08-28T17:13:43.799Z",
-    "modified": "2026-09-28T17:08:48.726Z"
+    "modified": "2026-09-28T18:22:34.004Z"
   }
 }
