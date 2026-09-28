@@ -1,7 +1,7 @@
 {
   "name": "@pipers/core",
   "dist-tags": {
-    "latest": "0.64.0"
+    "latest": "0.64.1"
   },
   "versions": {
     "0.62.0": {
@@ -9,14 +9,14 @@
       "version": "0.62.0",
       "description": "A TypeScript backend framework, with pipeline mode.",
       "dependencies": {
-        "@pipers/logger": "0.64.0",
-        "@pipers/toolkit": "0.64.0"
+        "@pipers/logger": "0.64.1",
+        "@pipers/toolkit": "0.64.1"
       },
       "peerDependencies": {},
       "time": "2026-08-28T17:13:44.997Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/core-0.62.0.tgz",
-        "integrity": "sha512-93wfBvyUKKE9cNXKh1dRYdbPlot/EagIKiqDZaNl/27izYQYd3XKKx0nll+PFDPLPnQSeJORWGgv088MW4lIIQ=="
+        "integrity": "sha512-t+2SWsXFsYHwk4L96uq+wNnQ3g4e6Y9i63Zcq605mtjNK/NKYmeJ2q2sDJYE1UmihOkg+Q8uZB7fXtJaeE044Q=="
       }
     },
     "0.62.1": {
@@ -24,14 +24,14 @@
       "version": "0.62.1",
       "description": "A TypeScript backend framework, with pipeline mode.",
       "dependencies": {
-        "@pipers/logger": "0.64.0",
-        "@pipers/toolkit": "0.64.0"
+        "@pipers/logger": "0.64.1",
+        "@pipers/toolkit": "0.64.1"
       },
       "peerDependencies": {},
       "time": "2026-08-28T17:13:44.997Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/core-0.62.1.tgz",
-        "integrity": "sha512-93wfBvyUKKE9cNXKh1dRYdbPlot/EagIKiqDZaNl/27izYQYd3XKKx0nll+PFDPLPnQSeJORWGgv088MW4lIIQ=="
+        "integrity": "sha512-t+2SWsXFsYHwk4L96uq+wNnQ3g4e6Y9i63Zcq605mtjNK/NKYmeJ2q2sDJYE1UmihOkg+Q8uZB7fXtJaeE044Q=="
       }
     },
     "0.62.2": {
@@ -39,14 +39,14 @@
       "version": "0.62.2",
       "description": "A TypeScript backend framework, with pipeline mode.",
       "dependencies": {
-        "@pipers/logger": "0.64.0",
-        "@pipers/toolkit": "0.64.0"
+        "@pipers/logger": "0.64.1",
+        "@pipers/toolkit": "0.64.1"
       },
       "peerDependencies": {},
       "time": "2026-08-28T18:17:18.337Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/core-0.62.2.tgz",
-        "integrity": "sha512-93wfBvyUKKE9cNXKh1dRYdbPlot/EagIKiqDZaNl/27izYQYd3XKKx0nll+PFDPLPnQSeJORWGgv088MW4lIIQ=="
+        "integrity": "sha512-t+2SWsXFsYHwk4L96uq+wNnQ3g4e6Y9i63Zcq605mtjNK/NKYmeJ2q2sDJYE1UmihOkg+Q8uZB7fXtJaeE044Q=="
       }
     },
     "0.62.3": {
@@ -54,14 +54,14 @@
       "version": "0.62.3",
       "description": "A TypeScript backend framework, with pipeline mode.",
       "dependencies": {
-        "@pipers/logger": "0.64.0",
-        "@pipers/toolkit": "0.64.0"
+        "@pipers/logger": "0.64.1",
+        "@pipers/toolkit": "0.64.1"
       },
       "peerDependencies": {},
       "time": "2026-08-28T18:50:30.811Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/core-0.62.3.tgz",
-        "integrity": "sha512-93wfBvyUKKE9cNXKh1dRYdbPlot/EagIKiqDZaNl/27izYQYd3XKKx0nll+PFDPLPnQSeJORWGgv088MW4lIIQ=="
+        "integrity": "sha512-t+2SWsXFsYHwk4L96uq+wNnQ3g4e6Y9i63Zcq605mtjNK/NKYmeJ2q2sDJYE1UmihOkg+Q8uZB7fXtJaeE044Q=="
       }
     },
     "0.62.4": {
@@ -69,14 +69,14 @@
       "version": "0.62.4",
       "description": "A TypeScript backend framework, with pipeline mode.",
       "dependencies": {
-        "@pipers/logger": "0.64.0",
-        "@pipers/toolkit": "0.64.0"
+        "@pipers/logger": "0.64.1",
+        "@pipers/toolkit": "0.64.1"
       },
       "peerDependencies": {},
       "time": "2026-08-28T19:02:02.081Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/core-0.62.4.tgz",
-        "integrity": "sha512-93wfBvyUKKE9cNXKh1dRYdbPlot/EagIKiqDZaNl/27izYQYd3XKKx0nll+PFDPLPnQSeJORWGgv088MW4lIIQ=="
+        "integrity": "sha512-t+2SWsXFsYHwk4L96uq+wNnQ3g4e6Y9i63Zcq605mtjNK/NKYmeJ2q2sDJYE1UmihOkg+Q8uZB7fXtJaeE044Q=="
       }
     },
     "0.63.0": {
@@ -84,14 +84,14 @@
       "version": "0.63.0",
       "description": "A TypeScript backend framework, with pipeline mode.",
       "dependencies": {
-        "@pipers/logger": "0.64.0",
-        "@pipers/toolkit": "0.64.0"
+        "@pipers/logger": "0.64.1",
+        "@pipers/toolkit": "0.64.1"
       },
       "peerDependencies": {},
       "time": "2026-09-26T18:10:45.912Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/core-0.63.0.tgz",
-        "integrity": "sha512-93wfBvyUKKE9cNXKh1dRYdbPlot/EagIKiqDZaNl/27izYQYd3XKKx0nll+PFDPLPnQSeJORWGgv088MW4lIIQ=="
+        "integrity": "sha512-t+2SWsXFsYHwk4L96uq+wNnQ3g4e6Y9i63Zcq605mtjNK/NKYmeJ2q2sDJYE1UmihOkg+Q8uZB7fXtJaeE044Q=="
       }
     },
     "0.64.0": {
@@ -99,14 +99,29 @@
       "version": "0.64.0",
       "description": "A TypeScript backend framework, with pipeline mode.",
       "dependencies": {
-        "@pipers/logger": "0.64.0",
-        "@pipers/toolkit": "0.64.0"
+        "@pipers/logger": "0.64.1",
+        "@pipers/toolkit": "0.64.1"
       },
       "peerDependencies": {},
       "time": "2026-09-27T20:24:38.135Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/core-0.64.0.tgz",
-        "integrity": "sha512-93wfBvyUKKE9cNXKh1dRYdbPlot/EagIKiqDZaNl/27izYQYd3XKKx0nll+PFDPLPnQSeJORWGgv088MW4lIIQ=="
+        "integrity": "sha512-t+2SWsXFsYHwk4L96uq+wNnQ3g4e6Y9i63Zcq605mtjNK/NKYmeJ2q2sDJYE1UmihOkg+Q8uZB7fXtJaeE044Q=="
+      }
+    },
+    "0.64.1": {
+      "name": "@pipers/core",
+      "version": "0.64.1",
+      "description": "A TypeScript backend framework, with pipeline mode.",
+      "dependencies": {
+        "@pipers/logger": "0.64.1",
+        "@pipers/toolkit": "0.64.1"
+      },
+      "peerDependencies": {},
+      "time": "2026-09-28T17:08:49.785Z",
+      "dist": {
+        "tarball": "https://npm.iinfinity.io/-/@pipers/core-0.64.1.tgz",
+        "integrity": "sha512-t+2SWsXFsYHwk4L96uq+wNnQ3g4e6Y9i63Zcq605mtjNK/NKYmeJ2q2sDJYE1UmihOkg+Q8uZB7fXtJaeE044Q=="
       }
     }
   },
@@ -118,7 +133,8 @@
     "0.62.4": "2026-08-28T19:02:02.081Z",
     "0.63.0": "2026-09-26T18:10:45.912Z",
     "0.64.0": "2026-09-27T20:24:38.135Z",
+    "0.64.1": "2026-09-28T17:08:49.785Z",
     "created": "2026-08-28T17:13:44.997Z",
-    "modified": "2026-09-27T20:24:38.135Z"
+    "modified": "2026-09-28T17:08:49.785Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "@pipers/create",
   "dist-tags": {
-    "latest": "0.64.0"
+    "latest": "0.64.1"
   },
   "versions": {
     "0.62.0": {
@@ -9,7 +9,7 @@
       "version": "0.62.0",
       "description": "Create pipers workspace, application or module.",
       "dependencies": {
-        "@pipers/toolkit": "0.64.0",
+        "@pipers/toolkit": "0.64.1",
         "commander": "15.0.0",
         "inquirer": "14.0.2",
         "mustache": "4.2.0",
@@ -18,7 +18,7 @@
       "time": "2026-08-28T17:13:43.314Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/create-0.62.0.tgz",
-        "integrity": "sha512-SlrJ+ssXSb6lRn0L8W4K8xS7bv5mcb7x6ZyOyFvBei35Dapbx2BUp2ISJeywwzDb/WRi+lcUIHQ6eBZJKUWebg=="
+        "integrity": "sha512-USdN6D8Hpy2TjgOF5fqR2/xn1a17jIx6ADPjTrUtM7HW0ZALjOft0rKh8JSfTsdBCzORqdKhN0eOzY0Qdo69ow=="
       }
     },
     "0.62.1": {
@@ -26,7 +26,7 @@
       "version": "0.62.1",
       "description": "Create pipers workspace, application or module.",
       "dependencies": {
-        "@pipers/toolkit": "0.64.0",
+        "@pipers/toolkit": "0.64.1",
         "commander": "15.0.0",
         "inquirer": "14.0.2",
         "mustache": "4.2.0",
@@ -35,7 +35,7 @@
       "time": "2026-08-28T17:13:43.314Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/create-0.62.1.tgz",
-        "integrity": "sha512-SlrJ+ssXSb6lRn0L8W4K8xS7bv5mcb7x6ZyOyFvBei35Dapbx2BUp2ISJeywwzDb/WRi+lcUIHQ6eBZJKUWebg=="
+        "integrity": "sha512-USdN6D8Hpy2TjgOF5fqR2/xn1a17jIx6ADPjTrUtM7HW0ZALjOft0rKh8JSfTsdBCzORqdKhN0eOzY0Qdo69ow=="
       }
     },
     "0.62.2": {
@@ -43,7 +43,7 @@
       "version": "0.62.2",
       "description": "Create pipers workspace, application or module.",
       "dependencies": {
-        "@pipers/toolkit": "0.64.0",
+        "@pipers/toolkit": "0.64.1",
         "commander": "15.0.0",
         "inquirer": "14.0.2",
         "mustache": "4.2.0",
@@ -52,7 +52,7 @@
       "time": "2026-08-28T18:17:16.673Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/create-0.62.2.tgz",
-        "integrity": "sha512-SlrJ+ssXSb6lRn0L8W4K8xS7bv5mcb7x6ZyOyFvBei35Dapbx2BUp2ISJeywwzDb/WRi+lcUIHQ6eBZJKUWebg=="
+        "integrity": "sha512-USdN6D8Hpy2TjgOF5fqR2/xn1a17jIx6ADPjTrUtM7HW0ZALjOft0rKh8JSfTsdBCzORqdKhN0eOzY0Qdo69ow=="
       }
     },
     "0.62.3": {
@@ -60,7 +60,7 @@
       "version": "0.62.3",
       "description": "Create pipers workspace, application or module.",
       "dependencies": {
-        "@pipers/toolkit": "0.64.0",
+        "@pipers/toolkit": "0.64.1",
         "commander": "15.0.0",
         "inquirer": "14.0.2",
         "mustache": "4.2.0",
@@ -69,7 +69,7 @@
       "time": "2026-08-28T18:50:28.955Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/create-0.62.3.tgz",
-        "integrity": "sha512-SlrJ+ssXSb6lRn0L8W4K8xS7bv5mcb7x6ZyOyFvBei35Dapbx2BUp2ISJeywwzDb/WRi+lcUIHQ6eBZJKUWebg=="
+        "integrity": "sha512-USdN6D8Hpy2TjgOF5fqR2/xn1a17jIx6ADPjTrUtM7HW0ZALjOft0rKh8JSfTsdBCzORqdKhN0eOzY0Qdo69ow=="
       }
     },
     "0.62.4": {
@@ -77,7 +77,7 @@
       "version": "0.62.4",
       "description": "Create pipers workspace, application or module.",
       "dependencies": {
-        "@pipers/toolkit": "0.64.0",
+        "@pipers/toolkit": "0.64.1",
         "commander": "15.0.0",
         "inquirer": "14.0.2",
         "mustache": "4.2.0",
@@ -86,7 +86,7 @@
       "time": "2026-08-28T19:02:00.291Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/create-0.62.4.tgz",
-        "integrity": "sha512-SlrJ+ssXSb6lRn0L8W4K8xS7bv5mcb7x6ZyOyFvBei35Dapbx2BUp2ISJeywwzDb/WRi+lcUIHQ6eBZJKUWebg=="
+        "integrity": "sha512-USdN6D8Hpy2TjgOF5fqR2/xn1a17jIx6ADPjTrUtM7HW0ZALjOft0rKh8JSfTsdBCzORqdKhN0eOzY0Qdo69ow=="
       }
     },
     "0.63.0": {
@@ -94,7 +94,7 @@
       "version": "0.63.0",
       "description": "Create pipers workspace, application or module.",
       "dependencies": {
-        "@pipers/toolkit": "0.64.0",
+        "@pipers/toolkit": "0.64.1",
         "commander": "15.0.0",
         "inquirer": "14.0.2",
         "mustache": "4.2.0",
@@ -103,7 +103,7 @@
       "time": "2026-09-26T18:10:44.117Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/create-0.63.0.tgz",
-        "integrity": "sha512-SlrJ+ssXSb6lRn0L8W4K8xS7bv5mcb7x6ZyOyFvBei35Dapbx2BUp2ISJeywwzDb/WRi+lcUIHQ6eBZJKUWebg=="
+        "integrity": "sha512-USdN6D8Hpy2TjgOF5fqR2/xn1a17jIx6ADPjTrUtM7HW0ZALjOft0rKh8JSfTsdBCzORqdKhN0eOzY0Qdo69ow=="
       }
     },
     "0.64.0": {
@@ -111,7 +111,7 @@
       "version": "0.64.0",
       "description": "Create pipers workspace, application or module.",
       "dependencies": {
-        "@pipers/toolkit": "0.64.0",
+        "@pipers/toolkit": "0.64.1",
         "commander": "15.0.0",
         "inquirer": "14.0.2",
         "mustache": "4.2.0",
@@ -120,7 +120,24 @@
       "time": "2026-09-27T20:24:36.223Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/create-0.64.0.tgz",
-        "integrity": "sha512-SlrJ+ssXSb6lRn0L8W4K8xS7bv5mcb7x6ZyOyFvBei35Dapbx2BUp2ISJeywwzDb/WRi+lcUIHQ6eBZJKUWebg=="
+        "integrity": "sha512-USdN6D8Hpy2TjgOF5fqR2/xn1a17jIx6ADPjTrUtM7HW0ZALjOft0rKh8JSfTsdBCzORqdKhN0eOzY0Qdo69ow=="
+      }
+    },
+    "0.64.1": {
+      "name": "@pipers/create",
+      "version": "0.64.1",
+      "description": "Create pipers workspace, application or module.",
+      "dependencies": {
+        "@pipers/toolkit": "0.64.1",
+        "commander": "15.0.0",
+        "inquirer": "14.0.2",
+        "mustache": "4.2.0",
+        "zx": "8.8.5"
+      },
+      "time": "2026-09-28T17:08:48.247Z",
+      "dist": {
+        "tarball": "https://npm.iinfinity.io/-/@pipers/create-0.64.1.tgz",
+        "integrity": "sha512-USdN6D8Hpy2TjgOF5fqR2/xn1a17jIx6ADPjTrUtM7HW0ZALjOft0rKh8JSfTsdBCzORqdKhN0eOzY0Qdo69ow=="
       }
     }
   },
@@ -132,7 +149,8 @@
     "0.62.4": "2026-08-28T19:02:00.291Z",
     "0.63.0": "2026-09-26T18:10:44.117Z",
     "0.64.0": "2026-09-27T20:24:36.223Z",
+    "0.64.1": "2026-09-28T17:08:48.247Z",
     "created": "2026-08-28T17:13:43.314Z",
-    "modified": "2026-09-27T20:24:36.223Z"
+    "modified": "2026-09-28T17:08:48.247Z"
   }
 }
