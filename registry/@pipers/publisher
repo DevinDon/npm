@@ -1,7 +1,7 @@
 {
   "name": "@pipers/publisher",
   "dist-tags": {
-    "latest": "0.65.0"
+    "latest": "0.66.0"
   },
   "versions": {
     "0.62.0": {
@@ -10,14 +10,14 @@
       "description": "Publish npm packages to a static registry on GitHub Pages.",
       "dependencies": {
         "@octokit/rest": "22.0.1",
-        "@pipers/toolkit": "0.65.0",
+        "@pipers/toolkit": "0.66.0",
         "commander": "15.0.0",
         "zx": "8.8.5"
       },
       "time": "2026-08-28T17:13:44.295Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/publisher-0.62.0.tgz",
-        "integrity": "sha512-Ai+KkslGoswjqMw2N/kVMZdCGK7lvD6a8YlNH+pUHdbtpY+Y8tO3ncsPP0f5EThM8nvkZsfZRh9nSucDhgb9Bw=="
+        "integrity": "sha512-osn+V0HHwSdkOTOTMrKSSiakETDXnfFo5r+giWwPJA3TxXUW7fD/csVvCIsn38kwgqGluzQrSBlQ30FVZ9LtGQ=="
       }
     },
     "0.62.1": {
@@ -26,14 +26,14 @@
       "description": "Publish npm packages to a static registry on GitHub Pages.",
       "dependencies": {
         "@octokit/rest": "22.0.1",
-        "@pipers/toolkit": "0.65.0",
+        "@pipers/toolkit": "0.66.0",
         "commander": "15.0.0",
         "zx": "8.8.5"
       },
       "time": "2026-08-28T17:13:44.295Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/publisher-0.62.1.tgz",
-        "integrity": "sha512-Ai+KkslGoswjqMw2N/kVMZdCGK7lvD6a8YlNH+pUHdbtpY+Y8tO3ncsPP0f5EThM8nvkZsfZRh9nSucDhgb9Bw=="
+        "integrity": "sha512-osn+V0HHwSdkOTOTMrKSSiakETDXnfFo5r+giWwPJA3TxXUW7fD/csVvCIsn38kwgqGluzQrSBlQ30FVZ9LtGQ=="
       }
     },
     "0.62.2": {
@@ -42,14 +42,14 @@
       "description": "Publish npm packages to a static registry on GitHub Pages.",
       "dependencies": {
         "@octokit/rest": "22.0.1",
-        "@pipers/toolkit": "0.65.0",
+        "@pipers/toolkit": "0.66.0",
         "commander": "15.0.0",
         "zx": "8.8.5"
       },
       "time": "2026-08-28T18:17:17.586Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/publisher-0.62.2.tgz",
-        "integrity": "sha512-Ai+KkslGoswjqMw2N/kVMZdCGK7lvD6a8YlNH+pUHdbtpY+Y8tO3ncsPP0f5EThM8nvkZsfZRh9nSucDhgb9Bw=="
+        "integrity": "sha512-osn+V0HHwSdkOTOTMrKSSiakETDXnfFo5r+giWwPJA3TxXUW7fD/csVvCIsn38kwgqGluzQrSBlQ30FVZ9LtGQ=="
       }
     },
     "0.62.3": {
@@ -58,14 +58,14 @@
       "description": "Publish npm packages to a static registry on GitHub Pages.",
       "dependencies": {
         "@octokit/rest": "22.0.1",
-        "@pipers/toolkit": "0.65.0",
+        "@pipers/toolkit": "0.66.0",
         "commander": "15.0.0",
         "zx": "8.8.5"
       },
       "time": "2026-08-28T18:50:30.003Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/publisher-0.62.3.tgz",
-        "integrity": "sha512-Ai+KkslGoswjqMw2N/kVMZdCGK7lvD6a8YlNH+pUHdbtpY+Y8tO3ncsPP0f5EThM8nvkZsfZRh9nSucDhgb9Bw=="
+        "integrity": "sha512-osn+V0HHwSdkOTOTMrKSSiakETDXnfFo5r+giWwPJA3TxXUW7fD/csVvCIsn38kwgqGluzQrSBlQ30FVZ9LtGQ=="
       }
     },
     "0.62.4": {
@@ -74,14 +74,14 @@
       "description": "Publish npm packages to a static registry on GitHub Pages.",
       "dependencies": {
         "@octokit/rest": "22.0.1",
-        "@pipers/toolkit": "0.65.0",
+        "@pipers/toolkit": "0.66.0",
         "commander": "15.0.0",
         "zx": "8.8.5"
       },
       "time": "2026-08-28T19:02:01.284Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/publisher-0.62.4.tgz",
-        "integrity": "sha512-Ai+KkslGoswjqMw2N/kVMZdCGK7lvD6a8YlNH+pUHdbtpY+Y8tO3ncsPP0f5EThM8nvkZsfZRh9nSucDhgb9Bw=="
+        "integrity": "sha512-osn+V0HHwSdkOTOTMrKSSiakETDXnfFo5r+giWwPJA3TxXUW7fD/csVvCIsn38kwgqGluzQrSBlQ30FVZ9LtGQ=="
       }
     },
     "0.63.0": {
@@ -90,14 +90,14 @@
       "description": "Publish npm packages to a static registry on GitHub Pages.",
       "dependencies": {
         "@octokit/rest": "22.0.1",
-        "@pipers/toolkit": "0.65.0",
+        "@pipers/toolkit": "0.66.0",
         "commander": "15.0.0",
         "zx": "8.8.5"
       },
       "time": "2026-09-26T18:10:45.054Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/publisher-0.63.0.tgz",
-        "integrity": "sha512-Ai+KkslGoswjqMw2N/kVMZdCGK7lvD6a8YlNH+pUHdbtpY+Y8tO3ncsPP0f5EThM8nvkZsfZRh9nSucDhgb9Bw=="
+        "integrity": "sha512-osn+V0HHwSdkOTOTMrKSSiakETDXnfFo5r+giWwPJA3TxXUW7fD/csVvCIsn38kwgqGluzQrSBlQ30FVZ9LtGQ=="
       }
     },
     "0.64.0": {
@@ -106,14 +106,14 @@
       "description": "Publish npm packages to a static registry on GitHub Pages.",
       "dependencies": {
         "@octokit/rest": "22.0.1",
-        "@pipers/toolkit": "0.65.0",
+        "@pipers/toolkit": "0.66.0",
         "commander": "15.0.0",
         "zx": "8.8.5"
       },
       "time": "2026-09-27T20:24:37.313Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/publisher-0.64.0.tgz",
-        "integrity": "sha512-Ai+KkslGoswjqMw2N/kVMZdCGK7lvD6a8YlNH+pUHdbtpY+Y8tO3ncsPP0f5EThM8nvkZsfZRh9nSucDhgb9Bw=="
+        "integrity": "sha512-osn+V0HHwSdkOTOTMrKSSiakETDXnfFo5r+giWwPJA3TxXUW7fD/csVvCIsn38kwgqGluzQrSBlQ30FVZ9LtGQ=="
       }
     },
     "0.64.1": {
@@ -122,14 +122,14 @@
       "description": "Publish npm packages to a static registry on GitHub Pages.",
       "dependencies": {
         "@octokit/rest": "22.0.1",
-        "@pipers/toolkit": "0.65.0",
+        "@pipers/toolkit": "0.66.0",
         "commander": "15.0.0",
         "zx": "8.8.5"
       },
       "time": "2026-09-28T18:55:51.014Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/publisher-0.64.1.tgz",
-        "integrity": "sha512-Ai+KkslGoswjqMw2N/kVMZdCGK7lvD6a8YlNH+pUHdbtpY+Y8tO3ncsPP0f5EThM8nvkZsfZRh9nSucDhgb9Bw=="
+        "integrity": "sha512-osn+V0HHwSdkOTOTMrKSSiakETDXnfFo5r+giWwPJA3TxXUW7fD/csVvCIsn38kwgqGluzQrSBlQ30FVZ9LtGQ=="
       }
     },
     "0.65.0": {
@@ -138,14 +138,30 @@
       "description": "Publish npm packages to a static registry on GitHub Pages.",
       "dependencies": {
         "@octokit/rest": "22.0.1",
-        "@pipers/toolkit": "0.65.0",
+        "@pipers/toolkit": "0.66.0",
         "commander": "15.0.0",
         "zx": "8.8.5"
       },
       "time": "2026-09-28T18:59:16.208Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/publisher-0.65.0.tgz",
-        "integrity": "sha512-Ai+KkslGoswjqMw2N/kVMZdCGK7lvD6a8YlNH+pUHdbtpY+Y8tO3ncsPP0f5EThM8nvkZsfZRh9nSucDhgb9Bw=="
+        "integrity": "sha512-osn+V0HHwSdkOTOTMrKSSiakETDXnfFo5r+giWwPJA3TxXUW7fD/csVvCIsn38kwgqGluzQrSBlQ30FVZ9LtGQ=="
+      }
+    },
+    "0.66.0": {
+      "name": "@pipers/publisher",
+      "version": "0.66.0",
+      "description": "Publish npm packages to a static registry on GitHub Pages.",
+      "dependencies": {
+        "@octokit/rest": "22.0.1",
+        "@pipers/toolkit": "0.66.0",
+        "commander": "15.0.0",
+        "zx": "8.8.5"
+      },
+      "time": "2026-10-02T19:38:16.795Z",
+      "dist": {
+        "tarball": "https://npm.iinfinity.io/-/@pipers/publisher-0.66.0.tgz",
+        "integrity": "sha512-osn+V0HHwSdkOTOTMrKSSiakETDXnfFo5r+giWwPJA3TxXUW7fD/csVvCIsn38kwgqGluzQrSBlQ30FVZ9LtGQ=="
       }
     }
   },
@@ -159,7 +175,8 @@
     "0.64.0": "2026-09-27T20:24:37.313Z",
     "0.64.1": "2026-09-28T18:55:51.014Z",
     "0.65.0": "2026-09-28T18:59:16.208Z",
+    "0.66.0": "2026-10-02T19:38:16.795Z",
     "created": "2026-08-28T17:13:44.295Z",
-    "modified": "2026-09-28T18:59:16.208Z"
+    "modified": "2026-10-02T19:38:16.795Z"
   }
 }
