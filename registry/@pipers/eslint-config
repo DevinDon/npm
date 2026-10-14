@@ -1,7 +1,7 @@
 {
   "name": "@pipers/eslint-config",
   "dist-tags": {
-    "latest": "0.69.12"
+    "latest": "0.69.13"
   },
   "versions": {
     "0.62.0": {
@@ -19,7 +19,7 @@
       "time": "2026-08-28T17:13:41.022Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.62.0.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.62.1": {
@@ -37,7 +37,7 @@
       "time": "2026-08-28T17:13:41.022Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.62.1.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.62.2": {
@@ -55,7 +55,7 @@
       "time": "2026-08-28T18:17:14.165Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.62.2.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.62.3": {
@@ -73,7 +73,7 @@
       "time": "2026-08-28T18:50:26.249Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.62.3.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.62.4": {
@@ -91,7 +91,7 @@
       "time": "2026-08-28T19:01:57.661Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.62.4.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.63.0": {
@@ -109,7 +109,7 @@
       "time": "2026-09-26T18:10:41.347Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.63.0.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.64.0": {
@@ -127,7 +127,7 @@
       "time": "2026-09-27T20:24:33.373Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.64.0.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.64.1": {
@@ -145,7 +145,7 @@
       "time": "2026-09-28T18:55:47.117Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.64.1.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.65.0": {
@@ -163,7 +163,7 @@
       "time": "2026-09-28T18:59:12.138Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.65.0.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.66.0": {
@@ -181,7 +181,7 @@
       "time": "2026-10-02T19:38:12.190Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.66.0.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.66.1": {
@@ -199,7 +199,7 @@
       "time": "2026-10-02T20:17:45.742Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.66.1.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.67.0": {
@@ -217,7 +217,7 @@
       "time": "2026-10-03T04:07:37.824Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.67.0.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.67.1": {
@@ -235,7 +235,7 @@
       "time": "2026-10-03T04:20:16.078Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.67.1.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.67.2": {
@@ -253,7 +253,7 @@
       "time": "2026-10-03T04:40:55.023Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.67.2.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.67.3": {
@@ -271,7 +271,7 @@
       "time": "2026-10-03T05:59:21.007Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.67.3.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.68.0": {
@@ -289,7 +289,7 @@
       "time": "2026-10-09T19:34:23.776Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.68.0.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.68.2": {
@@ -307,7 +307,7 @@
       "time": "2026-10-10T07:22:58.702Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.68.2.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.69.0": {
@@ -325,7 +325,7 @@
       "time": "2026-10-10T09:23:19.609Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.69.0.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.69.1": {
@@ -343,7 +343,7 @@
       "time": "2026-10-10T12:17:07.406Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.69.1.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.69.2": {
@@ -361,7 +361,7 @@
       "time": "2026-10-11T19:55:17.785Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.69.2.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.69.3": {
@@ -379,7 +379,7 @@
       "time": "2026-10-12T11:14:49.556Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.69.3.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.69.4": {
@@ -397,7 +397,7 @@
       "time": "2026-10-12T17:40:06.600Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.69.4.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.69.5": {
@@ -415,7 +415,7 @@
       "time": "2026-10-12T19:56:05.911Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.69.5.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.69.6": {
@@ -433,7 +433,7 @@
       "time": "2026-10-13T10:30:29.797Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.69.6.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.69.7": {
@@ -451,7 +451,7 @@
       "time": "2026-10-13T11:28:41.467Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.69.7.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.69.8": {
@@ -469,7 +469,7 @@
       "time": "2026-10-13T12:24:39.910Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.69.8.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.69.9": {
@@ -487,7 +487,7 @@
       "time": "2026-10-13T13:08:03.629Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.69.9.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.69.10": {
@@ -505,7 +505,7 @@
       "time": "2026-10-13T17:58:58.748Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.69.10.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.69.11": {
@@ -523,7 +523,7 @@
       "time": "2026-10-13T19:11:08.323Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.69.11.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     },
     "0.69.12": {
@@ -541,7 +541,25 @@
       "time": "2026-10-13T19:39:11.657Z",
       "dist": {
         "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.69.12.tgz",
-        "integrity": "sha512-as7u5rXJp7RQnzfwrG4WhWjqs1peCiZdZKsX+bhgr86SKpJfV3ksuBjH3Pi3497AWcZ5vLErVy2JvXf+Uki8HQ=="
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
+      }
+    },
+    "0.69.13": {
+      "name": "@pipers/eslint-config",
+      "version": "0.69.13",
+      "description": "ESLint Rules for pipers framework.",
+      "dependencies": {
+        "@stylistic/eslint-plugin": "5.10.0",
+        "@typescript-eslint/parser": "8.67.0",
+        "eslint": "10.8.1",
+        "eslint-import-resolver-typescript": "4.4.5",
+        "eslint-plugin-import-x": "4.17.1",
+        "typescript-eslint": "8.67.0"
+      },
+      "time": "2026-10-14T01:55:17.821Z",
+      "dist": {
+        "tarball": "https://npm.iinfinity.io/-/@pipers/eslint-config-0.69.13.tgz",
+        "integrity": "sha512-WpMjGwnUyoE+K5+/9Ead0havfv8eQsGBz8hCHfU6xXPxP/Vcl8c7z8yvu/VGsLHQ0S076DCxmGhBeId1QwbKiw=="
       }
     }
   },
@@ -576,7 +594,8 @@
     "0.69.10": "2026-10-13T17:58:58.748Z",
     "0.69.11": "2026-10-13T19:11:08.323Z",
     "0.69.12": "2026-10-13T19:39:11.657Z",
+    "0.69.13": "2026-10-14T01:55:17.821Z",
     "created": "2026-08-28T17:13:41.022Z",
-    "modified": "2026-10-13T19:39:11.657Z"
+    "modified": "2026-10-14T01:55:17.821Z"
   }
 }
